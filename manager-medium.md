@@ -8,6 +8,7 @@ nmap:
 This is my first AD windows machine , idk shit.
 
 Tools im gonna use to enumerate for usernames :
+
 	Kerbrute.
 
 `./kerbrute_linux_amd64 userenum --dc 10.10.11.236 -d manager.htb /home/kali/Desktop/wordlists/SecLists/Usernames/xato-net-10-million-usernames.txt`
